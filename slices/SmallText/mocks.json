@@ -1,0 +1,22 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"textblock",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "story",
+							"type": "Text"
+						}
+					]
+				]
+			}
+		]
+	}
+]

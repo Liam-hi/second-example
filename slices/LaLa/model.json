@@ -1,0 +1,23 @@
+{
+  "id": "la_la",
+  "type": "SharedSlice",
+  "name": "LaLa",
+  "description": "LaLa",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "link": {
+          "type": "Link",
+          "config": { "label": "Link", "placeholder": "", "select": null }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

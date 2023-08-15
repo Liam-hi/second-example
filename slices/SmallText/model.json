@@ -1,0 +1,23 @@
+{
+  "id": "small_text",
+  "type": "SharedSlice",
+  "name": "SmallText",
+  "description": "SmallText",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {},
+      "items": {
+        "textblock": {
+          "type": "Text",
+          "config": { "label": "TextBlock", "placeholder": "" }
+        }
+      }
+    }
+  ]
+}

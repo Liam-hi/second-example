@@ -1,0 +1,6 @@
+{
+  "libraries": ["./slices"],
+  "repositoryName": "inspiring-macaron-913gmb",
+  "adapter": "@slicemachine/adapter-nuxt",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
